@@ -1,0 +1,5 @@
+=== 1.0.0 / 2011-11-03
+
+* 1 major enhancement
+
+  * Birthday! Sorta... Extracted from rake-remote_task 2.0.5.
