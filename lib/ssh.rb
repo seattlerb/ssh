@@ -13,7 +13,7 @@ require 'open4'
 # SSH's idea contributed by Joel Parker Henderson.
 
 class SSH
-  VERSION = "1.0.0"
+  VERSION = "1.1.0"
 
   class Error < RuntimeError; end
 

@@ -1,3 +1,9 @@
+=== 1.1.0 / 2012-11-09
+
+* 1 minor enhancement:
+
+  * Pulled test infrastructure from rake-remote_task to here.
+
 === 1.0.0 / 2011-11-03
 
 * 1 major enhancement
