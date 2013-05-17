@@ -1,7 +1,7 @@
 require "minitest/autorun"
 require "ssh_test"
 
-class TestSSH < MiniTest::Unit::TestCase
+class TestSSH < Minitest::Test
   def setup
     super
     @ssh = SSH.new
