@@ -9,8 +9,9 @@ Hoe.plugin :seattlerb
 Hoe.spec "ssh" do
   developer "Ryan Davis", "ryand-ruby@zenspider.com"
 
-#  dependency 'rake',     '~> 0.8'
   dependency 'open4',    '~> 1.0'
+
+  license "MIT"
 end
 
 # vim: syntax=ruby
